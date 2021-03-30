@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.370,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.200,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,C:\Users\Admin\Documents\RAD Studio\Projects\Unit2.dfm=D:\WORK\Seleznev\SiteOTUpdate\UnitMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,C:\Users\Admin\Documents\RAD Studio\Projects\Unit2.pas=D:\WORK\Seleznev\SiteOTUpdate\UnitMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,C:\Users\Admin\Documents\RAD Studio\Projects\Project1.dproj=D:\WORK\Seleznev\SiteOTUpdate\SiteOTUpdate.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.925,C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.dfm=D:\WORK\Seleznev\SiteOTUpdate\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.925,C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas=D:\WORK\Seleznev\SiteOTUpdate\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

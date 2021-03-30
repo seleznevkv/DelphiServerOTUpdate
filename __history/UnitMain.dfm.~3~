@@ -1,0 +1,24 @@
+object dm: Tdm
+  OldCreateOrder = False
+  Height = 232
+  Width = 405
+  object DataSource1: TDataSource
+    Left = 280
+    Top = 64
+  end
+  object ADODataSet1: TADODataSet
+    Connection = OTConnection
+    Parameters = <>
+    Left = 256
+    Top = 128
+  end
+  object OTConnection: TADOConnection
+    ConnectionString = 
+      'Provider=SQLOLEDB.1;Password=203010;Persist Security Info=True;U' +
+      'ser ID=asKubahov;Initial Catalog=OT;Data Source=192.168.76.100'
+    LoginPrompt = False
+    Provider = 'SQLOLEDB.1'
+    Left = 72
+    Top = 96
+  end
+end
